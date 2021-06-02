@@ -1,0 +1,6 @@
+name: rnaseq_pipeline
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+prefix: /Users/quangnguyen/miniconda3/envs/rnaseq_pipeline/envs/rnaseq_pipeline
